@@ -5,7 +5,7 @@
 #Setup
 
 ```sh
-git clone https://github.com/taylor-team/ID-bot
+git clone https://github.com/ahmedjabbar1/Phython_info.git
 cd ID-bot
 sudo pip install -r requirements.txt
 # add Your Token "config.py"
